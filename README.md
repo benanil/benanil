@@ -7,7 +7,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=unity&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/Vulkan-%23A81D23.svg?style=for-the-badge&logo=vulkan&logoColor=white" alt="Vulkan" />
   <img src="https://img.shields.io/badge/OpenGL-%235586A4.svg?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL" />
   <img src="https://img.shields.io/badge/DirectX-%230078D7.svg?style=for-the-badge&logo=directx&logoColor=white" alt="DirectX" />
